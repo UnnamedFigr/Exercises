@@ -1,0 +1,15 @@
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\bin\Debug\net7.0\NumbersToRomanChars.exe
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\bin\Debug\net7.0\NumbersToRomanChars.deps.json
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\bin\Debug\net7.0\NumbersToRomanChars.runtimeconfig.json
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\bin\Debug\net7.0\NumbersToRomanChars.dll
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\bin\Debug\net7.0\NumbersToRomanChars.pdb
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.csproj.AssemblyReference.cache
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.AssemblyInfoInputs.cache
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.AssemblyInfo.cs
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.csproj.CoreCompileInputs.cache
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.dll
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\refint\NumbersToRomanChars.dll
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.pdb
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\NumbersToRomanChars.genruntimeconfig.cache
+C:\Users\kasap\Documents\Exercises\NumbersToRomanChars\obj\Debug\net7.0\ref\NumbersToRomanChars.dll
